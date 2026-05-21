@@ -1,0 +1,19 @@
+# Core runtime
+numpy
+sounddevice
+faster-whisper
+openai
+pymongo
+librosa
+qrcode[pil]
+pywhatkit
+
+# Optional but used by included modules (RAG + emotion)
+sentence-transformers
+faiss-cpu
+torch
+transformers
+
+# UI / audio extras referenced in project
+pygame
+openai-whisper

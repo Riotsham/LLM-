@@ -1,0 +1,25 @@
+{
+  "sessions": {
+    "7xp-ZwOs4t5rOWAX0o10mg": {
+      "token": "7xp-ZwOs4t5rOWAX0o10mg",
+      "status": "pending",
+      "created_at": "2026-04-29T09:29:07.516143+00:00",
+      "expires_at": "2026-04-29T09:49:07.516143+00:00",
+      "profile": {}
+    },
+    "29go4eHnG-lCOJK92d9d7A": {
+      "token": "29go4eHnG-lCOJK92d9d7A",
+      "status": "completed",
+      "created_at": "2026-04-29T09:33:46.695897+00:00",
+      "expires_at": "2026-04-29T09:53:46.695897+00:00",
+      "profile": {
+        "name": "Boobalan",
+        "age": "22",
+        "occupation": "Student",
+        "field_of_study": "",
+        "notes": ""
+      },
+      "completed_at": "2026-04-29T09:34:57.362459+00:00"
+    }
+  }
+}

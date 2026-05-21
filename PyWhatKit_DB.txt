@@ -1,0 +1,50 @@
+Date: 26/2/2026
+Time: 14:49
+Phone Number: +919655579092
+Message: Mental Support Assistant AlertPatient: SamAge: UnknownOccupation: UnknownPrimary problem: suicidal thoughtsOverall risk score: 0.90Time(UTC): 2026-02-26T09:18:58.129046+00:00Recent statements: I am going to kill myself.Action: Patient requested professional appointment booking.
+--------------------
+Date: 26/2/2026
+Time: 15:45
+Phone Number: +919655579092
+Message: Mental Support Assistant AlertPatient: SamAge: UnknownOccupation: UnknownPrimary problem: suicidal thoughtsOverall risk score: 0.72Time(UTC): 2026-02-26T10:14:47.215439+00:00Recent statements: I'll looks frustrated because of my behavior | I am looking to kill myself.Action: Patient requested professional appointment booking.
+--------------------
+Date: 27/2/2026
+Time: 9:6
+Phone Number: +919655579092
+Message: Mental Support Assistant AlertPatient: SamAge: UnknownOccupation: UnknownPrimary problem: suicidal thoughtsOverall risk score: 0.66Time(UTC): 2026-02-27T03:36:08.574945+00:00Recent statements: I feel very happy about my first prize in web design contest. | Okay, how are you? | I am going to kill myself.Action: Patient requested professional appointment booking.
+--------------------
+Date: 27/2/2026
+Time: 9:28
+Phone Number: +919655579092
+Message: Mental Support Assistant AlertPatient: SundarAge: I'm fineOccupation: I'm a mechanicPrimary problem: suicidal thoughtsOverall risk score: 0.90Time(UTC): 2026-02-27T03:58:32.467892+00:00Recent statements: I'm going to kill myselfAction: Patient requested professional appointment booking.
+--------------------
+Date: 27/2/2026
+Time: 10:38
+Phone Number: +919655579092
+Message: Mental Support Assistant AlertPatient: Tug ThugAge: 16Occupation: StudentPrimary problem: suicidal thoughtsOverall risk score: 0.61Time(UTC): 2026-02-27T05:08:17.043311+00:00Recent statements: I feel really frustrated, everyone mocks me. | I feel very frustrated, bro. Everyone's calling me. Everyone mocks me. | I am going to kill myself bro.Action: Patient requested professional appointment booking.
+--------------------
+Date: 4/3/2026
+Time: 9:44
+Phone Number: +919655579092
+Message: Mental Support Assistant AlertPatient: Tug ThugAge: 16Occupation: StudentPrimary problem: suicidal thoughtsOverall risk score: 0.66Time(UTC): 2026-03-04T04:13:48.725000+00:00Recent statements: Not good. | Feeling frustrated. | I am going to kill myself.Action: Patient requested professional appointment booking.
+--------------------
+Date: 4/3/2026
+Time: 11:34
+Phone Number: +919655579092
+Message: Mental Support Assistant AlertPatient: SamAge: 18Occupation: freelancingPrimary problem: suicidal thoughtsOverall risk score: 0.66Time(UTC): 2026-03-04T06:04:23.242899+00:00Recent statements: My day was not good | I feel very frustrated. | I'm going to commit suicide.Action: Patient requested professional appointment booking.
+--------------------
+Date: 4/3/2026
+Time: 13:41
+Phone Number: +919655579092
+Message: Mental Support Assistant AlertPatient: Yuvanesh YAge: 36Occupation: DeveloperPrimary problem: suicidal thoughtsOverall risk score: 0.66Time(UTC): 2026-03-04T08:10:59.417468+00:00Recent statements: My day was not good. | I feel very frustrated right now | Think I'm going to commit suicide today earlier. I have tried thatAction: Patient requested professional appointment booking.
+--------------------
+Date: 20/4/2026
+Time: 13:45
+Phone Number: +919655579092
+Message: Mental Support Assistant AlertPatient: SamAge: 18Occupation: freelancingPrimary problem: suicidal thoughtsOverall risk score: 0.57Time(UTC): 2026-04-20T08:15:33.660169+00:00Recent statements: Okay, Daddy on | I'm giving people a face again. | I am going to kill myself.Action: Patient requested professional appointment booking.
+--------------------
+Date: 29/4/2026
+Time: 6:51
+Phone Number: +919655579092
+Message: Mental Support Assistant AlertPatient: MattiAge: UnknownOccupation: UnknownPrimary problem: anxiety and panicOverall risk score: 0.63Time(UTC): 2026-04-29T01:21:19.225879+00:00Recent statements: I have a lot of works and I don't think I can finish everything, it makes me anxious. | I don't know how to handle these situations so that I feel struck. | I about to kill myself. Can you help me with that?Action: Patient requested professional appointment booking.
+--------------------

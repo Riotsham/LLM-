@@ -1,0 +1,14 @@
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+models/
+roberta_local/
+roberta_emotion_local/
+
+*.wav
+*.mp3
+
+sshkey
+sshkey.pub

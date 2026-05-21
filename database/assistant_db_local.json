@@ -1,0 +1,3449 @@
+{
+  "users": [
+    {
+      "name": "Sam",
+      "stress_flag": true,
+      "relaxation_methods": "I want nothing to relax so that I can do.",
+      "pitch_baseline": 0.0,
+      "onboarding_complete": true,
+      "created_at": "2026-02-15T10:05:49.853502+00:00",
+      "_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "last_session_at": "2026-04-29T01:38:28.523986+00:00",
+      "last_overall_risk_score": 0.18333333333333332,
+      "last_primary_problem": "anxiety and panic",
+      "age": "18",
+      "occupation": "freelancing",
+      "field_of_study": "12 th class",
+      "intake_notes": "Mm",
+      "last_display_mood": "sad",
+      "last_session_max_overall_risk": 0.18333333333333332,
+      "last_session_seen_crisis": false
+    },
+    {
+      "name": "Prakashram",
+      "age": "16",
+      "occupation": "HBD",
+      "field_of_study": "Hitch",
+      "intake_notes": "",
+      "pitch_baseline": 0.0,
+      "created_at": "2026-02-28T10:48:54.396405+00:00",
+      "onboarding_complete": true,
+      "_id": "ed7f887b-7516-4121-88a7-2823e05023cc",
+      "last_session_at": "2026-02-28T10:53:23.975025+00:00",
+      "last_overall_risk_score": 0.0,
+      "last_primary_problem": "general emotional distress"
+    },
+    {
+      "name": "Yuvanesh Y",
+      "age": "36",
+      "occupation": "Developer",
+      "field_of_study": "",
+      "intake_notes": "",
+      "pitch_baseline": 0.0,
+      "created_at": "2026-03-04T05:58:46.889984+00:00",
+      "onboarding_complete": true,
+      "_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "last_session_at": "2026-03-04T08:12:23.046603+00:00",
+      "last_overall_risk_score": 0.66,
+      "last_primary_problem": "suicidal thoughts"
+    },
+    {
+      "name": "Yuvanesh",
+      "age": "23",
+      "occupation": "Developer",
+      "field_of_study": "",
+      "intake_notes": "",
+      "pitch_baseline": 0.0,
+      "created_at": "2026-03-04T07:42:58.117295+00:00",
+      "onboarding_complete": true,
+      "_id": "cc5584cf-9d6a-4994-8510-a8cd90598538"
+    },
+    {
+      "name": "John",
+      "age": "18",
+      "occupation": "Student",
+      "field_of_study": "Tech",
+      "intake_notes": "",
+      "pitch_baseline": 0.0,
+      "created_at": "2026-03-09T06:38:13.230742+00:00",
+      "onboarding_complete": true,
+      "_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "last_session_at": "2026-03-09T06:52:23.084024+00:00",
+      "last_overall_risk_score": 0.19,
+      "last_primary_problem": "depression symptoms"
+    },
+    {
+      "name": "Clen",
+      "age": "",
+      "occupation": "",
+      "field_of_study": "",
+      "intake_notes": "",
+      "pitch_baseline": 0.0,
+      "created_at": "2026-03-09T15:07:01.366342+00:00",
+      "onboarding_complete": true,
+      "_id": "6bbc0fe0-d354-459a-afeb-d078cb1ced6c"
+    },
+    {
+      "name": "Santhy",
+      "age": "42",
+      "occupation": "Assistant professor",
+      "field_of_study": "Engineering Cse",
+      "intake_notes": "I am fed up with my semester result",
+      "pitch_baseline": 0.0,
+      "created_at": "2026-04-22T07:53:51.682347+00:00",
+      "onboarding_complete": true,
+      "_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "last_session_at": "2026-04-22T08:09:09.826122+00:00",
+      "last_overall_risk_score": 0.0,
+      "last_primary_problem": "general emotional distress",
+      "last_display_mood": "sad",
+      "last_session_max_overall_risk": 0.0,
+      "last_session_seen_crisis": false
+    },
+    {
+      "name": "Ram",
+      "age": "25",
+      "occupation": "Student",
+      "field_of_study": "",
+      "intake_notes": "",
+      "pitch_baseline": 0.0,
+      "created_at": "2026-04-22T08:57:59.211106+00:00",
+      "onboarding_complete": true,
+      "_id": "d8a142f9-352a-4134-a312-d6df4ca6931b",
+      "last_session_at": "2026-04-22T09:07:25.172037+00:00",
+      "last_overall_risk_score": 0.0,
+      "last_primary_problem": "stress and burnout",
+      "last_display_mood": "sad",
+      "last_session_max_overall_risk": 0.0,
+      "last_session_seen_crisis": false
+    },
+    {
+      "name": "Arun",
+      "age": "",
+      "occupation": "",
+      "field_of_study": "",
+      "intake_notes": "",
+      "pitch_baseline": 0.0,
+      "created_at": "2026-04-22T09:08:34.030546+00:00",
+      "onboarding_complete": true,
+      "_id": "2ad06c5f-30e9-4943-9259-c5d62c0f659e",
+      "last_session_at": "2026-04-22T09:12:31.173189+00:00",
+      "last_overall_risk_score": 0.0,
+      "last_primary_problem": "general emotional distress",
+      "last_display_mood": "happy",
+      "last_session_max_overall_risk": 0.0,
+      "last_session_seen_crisis": false
+    },
+    {
+      "name": "Matti",
+      "age": "",
+      "occupation": "",
+      "field_of_study": "",
+      "intake_notes": "",
+      "pitch_baseline": 0.0,
+      "created_at": "2026-04-29T01:16:04.837085+00:00",
+      "onboarding_complete": true,
+      "_id": "fd2fce10-139e-45ee-9b41-ab13e5d0dc18",
+      "last_session_at": "2026-04-29T01:24:15.505283+00:00",
+      "last_overall_risk_score": 0.5975,
+      "last_primary_problem": "anxiety and panic",
+      "last_display_mood": "anger",
+      "last_session_max_overall_risk": 0.632,
+      "last_session_seen_crisis": true
+    },
+    {
+      "name": "Boobalan",
+      "age": "22",
+      "occupation": "Student",
+      "field_of_study": "",
+      "intake_notes": "",
+      "pitch_baseline": 0.0,
+      "created_at": "2026-04-29T09:35:00.882534+00:00",
+      "onboarding_complete": true,
+      "_id": "f811ab28-e945-464f-8e50-5c5e590194b8",
+      "last_session_at": "2026-04-29T09:41:00.782858+00:00",
+      "last_overall_risk_score": 0.0,
+      "last_primary_problem": "general emotional distress",
+      "last_display_mood": "sad",
+      "last_session_max_overall_risk": 0.0,
+      "last_session_seen_crisis": false
+    }
+  ],
+  "sessions": [
+    {
+      "_id": "0dea8466-1015-44f1-be8b-c6d28cb0dbd1",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-15T10:06:28.174582+00:00",
+      "transcript": "My day is not good. It's bad.",
+      "avg_pitch": 0.0
+    },
+    {
+      "_id": "c4d8acf3-647e-4ec0-b5e2-998c50cb2cf4",
+      "user_id": "8abcc49c-036d-4213-8e30-2bb758b44cbe",
+      "timestamp": "2026-02-15T10:08:46.099824+00:00",
+      "transcript": "My day was start to go",
+      "avg_pitch": 0.0
+    },
+    {
+      "_id": "20eaa7dc-36af-4906-8bb5-bfd6f0b1b1f5",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-19T09:50:33.882134+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "Thank you so much."
+        ],
+        [
+          "assistant",
+          "You're welcome, Sam! What's on your mind today that you wanted to talk about? I'm all ears. \n\n(Note: pitch comparison is currently unavailable. I'll ensure my tone is friendly and approachable based on our conversation so far.)"
+        ]
+      ],
+      "average_pitch_session": 0.0
+    },
+    {
+      "_id": "0d1b73c3-981d-44b8-9fee-4222a56cee5d",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-21T03:12:47.678656+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "I have planned doing this my life"
+        ],
+        [
+          "assistant",
+          "It sounds like you're feeling quite committed to a path you've chosen, Sam. That can be really empowering, and it's awesome that you've taken the time to think about what you want for your life. What specifically is on your mind when you say \"this\" - are there any particular areas or goals that come to mind?"
+        ],
+        [
+          "user",
+          "Okay, thank you"
+        ],
+        [
+          "assistant",
+          "You're welcome, Sam! It sounds like we might have just wrapped up our conversation for now. Remember, taking care of yourself and doing things that feel good is always a great place to start, okay? Don't forget to breathe deeply and gently, too - it can really help shift your perspective when you need it most. Take care of yourself!"
+        ],
+        [
+          "user",
+          "Okay, thank you so much."
+        ],
+        [
+          "assistant",
+          "I think we just said that a few times, Sam! You're welcome, again! I'm glad we could chat, even if it was short and sweet. If you ever want to talk more or try some relaxation exercises together, just let me know. Sending you kind vibes and calm energy!"
+        ],
+        [
+          "user",
+          "Again, I'll end up the session."
+        ],
+        [
+          "assistant",
+          "It looks like we're winding down for real this time, Sam! Sounds good to me. Have a wonderful day, and feel free to come back whenever you need some chill time or a conversation buddy. Bye for now!"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.0,
+        "primary_problem": "general emotional distress"
+      }
+    },
+    {
+      "_id": "ed7e15bf-2e4d-49c6-8c24-97ae49a6960b",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-21T03:45:04.216018+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "I am feeling very frustrated about an animal's growth."
+        ],
+        [
+          "assistant",
+          "It sounds like the issue with the animal's growth has really gotten under your skin, hasn't it? Can you tell me a little more about what's specifically causing your frustration - is it how the situation is unfolding or something else entirely that you're concerned about?"
+        ],
+        [
+          "user",
+          "My work is not okay. It's so personal so that I  feel the statement"
+        ],
+        [
+          "assistant",
+          "Sam, it sounds like you're really feeling that your work is on top of some sensitive stuff right now. Let me ask this: When we dive into what makes something \"personal\" in our work, often it comes down to how it affects us or impacts our values. Is there something specific about your current situation that's making you feel seen and heard on a deeper level?"
+        ],
+        [
+          "user",
+          "Okay, I need to end up the conversation. Thank you."
+        ],
+        [
+          "assistant",
+          "Hey Sam, it was actually nice chatting with you! You handled this self-compassion exercise really well - remembering that you're not alone and offering yourself kindness when things get tough is a great way to take care of yourself. Something simple like taking a walk or doing something creative might be just the thing to help clear your head right now, but whatever it is, make sure to prioritize doing what nurtures you. Goodbye!"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.0,
+        "primary_problem": "work or academic pressure"
+      }
+    },
+    {
+      "_id": "a9a0aae3-61f5-49de-911a-fae05d3c9cd9",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-23T05:04:23.991778+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "My day was not good bro  That's what I said"
+        ],
+        [
+          "assistant",
+          "Sam, I feel like there might be a bit of frustration or disappointment hiding beneath that phrase. Would you be willing to dig a bit deeper into what specifically didn't go well for you today?"
+        ],
+        [
+          "user",
+          "My manager's calling the door"
+        ],
+        [
+          "assistant",
+          "It sounds like your manager's phone call is really stressing you out, Sam. That can be overwhelming, especially when it feels unexpected or unwelcome. Can you tell me what's running through your mind right now as you're imagining your manager on the other side of the door?"
+        ],
+        [
+          "user",
+          "I'm going to kill him"
+        ],
+        [
+          "assistant",
+          "I feel like I hear the intensity in your words, Sam. You seem really upset and frustrated with what's happening. Sometimes when we're feeling anger, it can be hard to know where to put those feelings or what to do with them. \n\nLet me share something that might help: have you considered taking a few deep breaths before opening the door? When we feel overwhelmed, our minds can get jumbled up and it's easy to get caught up in intense emotions."
+        ],
+        [
+          "user",
+          "So what can I do now?"
+        ],
+        [
+          "assistant",
+          "It sounds like you're feeling stuck with how to handle this situation, Sam. Let's take a gentle step back together. How about trying the 5-4-3-2-1 Grounding Technique that we went through earlier? Sometimes, focusing on our surroundings can help calm us down and give us some clarity. Want to try it again or start with just one thing you're aware of in this moment?"
+        ],
+        [
+          "user",
+          "Okay, let's start that"
+        ],
+        [
+          "assistant",
+          "You already started the Grounding Technique earlier! Let's pick up where we left off, Sam. You can try tensing and relaxing each muscle group again if it helps. Alternatively, you could always just take a deep breath and notice your surroundings - what do you see around you right now?"
+        ],
+        [
+          "user",
+          "I saw a bunch of books before me."
+        ],
+        [
+          "assistant",
+          "You're already noticing the books, Sam! Now, let's try to build on that observation. As you look at those books, what's one thing about them that catches your eye? Is it their title, author, or maybe the color of the cover? Let that detail be a starting point for a moment of calm and focus."
+        ],
+        [
+          "user",
+          "I saw the title that tells me holy Bible that's covers me"
+        ],
+        [
+          "assistant",
+          "It sounds like the Bible is really sticking with you, Sam. I can feel your words are getting more calm and reflective. You know what? It might be helpful to take it a step further - since this safe space visualization we practiced earlier had you imagining an empowering, protective place, maybe there's something about this sacred text that's echoing that same feeling for you."
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.0,
+        "primary_problem": "general emotional distress"
+      }
+    },
+    {
+      "_id": "99a1d828-ccf9-42c6-8225-4ee05937cdee",
+      "user_id": "e63a2429-680c-49f6-b41a-c31ee0a3550e",
+      "timestamp": "2026-02-23T06:05:39.692445+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "Hi Allen. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "Have you struck?"
+        ],
+        [
+          "assistant",
+          "Allen, it sounds like you're feeling a bit concerned and uncertain about something right now. That can be really unsettling.\n\nCan you take a deep breath and help me understand what's going through your mind with these questions about \"striking\"? Is there something specific that's been on your mind, or someone you've seen in your line of work?"
+        ],
+        [
+          "user",
+          "Okay, man, I just called a new bro"
+        ],
+        [
+          "assistant",
+          "It sounds like you might be feeling a bit frustrated or irritable after this interaction. That's totally normal, Allen.\n\nRemember that it's okay to have tough moments sometimes. Now, let's try to shift our focus to something more positive. What do you think would help you feel more calm and centered right now?"
+        ],
+        [
+          "user",
+          "I don't know anything can you suggest me anything"
+        ],
+        [
+          "assistant",
+          "Allen! I've got you, friend. It sounds like you're feeling a bit stuck or overwhelmed. Let's start fresh with some good vibes instead.\n\nYou've already shown great resilience by tackling that 5-4-3-2-1 Grounding Technique earlier - kudos to you for taking care of yourself in that way! Now, let's try something new together. How about we experiment with a short mindfulness exercise? I can walk you through some simple steps to focus your mind and calm down. Would you be up for giving it a shot?"
+        ],
+        [
+          "user",
+          "Okay, carry on"
+        ],
+        [
+          "assistant",
+          "Allen, I love the resilience! You're doing great by pushing forward in spite of feeling overwhelmed.\n\nLet's try another exercise that can help shift your focus away from stress and into something more positive. Try to recall a happy memory or a moment when you felt carefree - it could be something as simple as walking in nature or laughing with friends. See if you can replay the details of that moment in your mind, and let the feelings of joy and peacefulness carry through."
+        ],
+        [
+          "user",
+          "Yeah, bro with my friends it feels very happy"
+        ],
+        [
+          "assistant",
+          "It's clear that being around friends makes you feel happy and carefree, Allen! That's a great thing to focus on! Why don't we build on that - what's one small way you can arrange to spend some quality time with your friends in the next few days? Doing so might help you feel even more uplifted and connected."
+        ],
+        [
+          "user",
+          "Okay, I will do that"
+        ],
+        [
+          "assistant",
+          "I love seeing that enthusiasm, Allen! It's great that you're committed to making some positive changes.\n\nYou know what? Sometimes just taking small steps towards the good stuff is enough to shift our mood and energy. And it sounds like you've got a new sense of motivation on your side. Keep pushing forward, okay?"
+        ],
+        [
+          "user",
+          "Okay, thank you so much for your guidance."
+        ],
+        [
+          "assistant",
+          "I'm glad I could help, Allen! You're doing great, and it was my pleasure to support you. Don't hesitate to reach out if you need anything else - take care of yourself, and enjoy that quality time with your friends!"
+        ],
+        [
+          "user",
+          "Okay, thank you"
+        ],
+        [
+          "assistant",
+          "It was a wrap, Allen! Feel free to come back whenever you need some guidance or just someone to chat with. Have a great day and enjoy those good vibes with your bros!"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.0,
+        "primary_problem": "relationship distress"
+      }
+    },
+    {
+      "_id": "399dc62a-30aa-456f-a797-5a3407c0dd99",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T04:57:19.515523+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "I am think I frustrated with something."
+        ],
+        [
+          "assistant",
+          "Sam, it sounds like you're feeling really stuck and frustrated about something right now. Can you try to pinpoint what that \"something\" is? Is it a situation, someone, or just the feeling itself?"
+        ],
+        [
+          "user",
+          "Okay, thank you"
+        ],
+        [
+          "assistant",
+          "You're welcome, Sam! It's like your mind was saying thanks for acknowledging those feelings! Remember, we can explore those frustrations together once you feel more relaxed. Want to try a deep breath and continue with the progressive muscle relaxation exercise I guided you through earlier? That often helps calm things down."
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.0,
+        "primary_problem": "general emotional distress"
+      }
+    },
+    {
+      "_id": "446e5931-3165-464c-af93-83e8369e0871",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T06:27:52.940125+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "Nothing on my mind."
+        ],
+        [
+          "assistant",
+          "It sounds like you're feeling a bit stuck, and maybe even a little frustrated that there's nothing to think about or express right now. That can be really annoying when you're waiting for inspiration to strike.\n\nHere's an idea: sometimes we need to just start with the smallest step - acknowledging that it's okay if your mind is quiet. What do you think would help you feel more comfortable with this stillness?"
+        ],
+        [
+          "user",
+          "Get the truck off.  And the drive."
+        ],
+        [
+          "assistant",
+          "It sounds like you're repeating yourself, but I'm not sure exactly what you need or want to \"get the truck off\" from and where you'd like to go by driving. Can you help me understand what's behind these requests - is it something specific that's on your mind or a feeling you're trying to express?"
+        ],
+        [
+          "user",
+          "Get the heck off"
+        ],
+        [
+          "assistant",
+          "It sounds like you're really struggling with some strong feelings right now, and using words like \"get the heck off\" suggests that you may be feeling overwhelmed and trapped. \n\nLet's take a deep breath together and try to identify what might be driving these emotions for you - is there something specific that's causing this sense of being stuck or suffocated?"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.0,
+        "primary_problem": "general emotional distress"
+      }
+    },
+    {
+      "_id": "cff9bb50-67b3-46e2-89f8-4d869932464d",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T11:11:32.376618+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "I feel I'm going to end up myself and I'm going to kill myself."
+        ],
+        [
+          "assistant",
+          "I hear how much this is hurting, and I'm really glad you told me.\n\nAre you safe right now?\n\nIf you can, please reach out to someone you trust right away and let them know what you're going through. You don't have to handle this alone.\n\nIf you feel in immediate danger, call your local emergency number now. If you're in the U.S., you can call or text 988 to reach the Suicide & Crisis Lifeline. If you're outside the U.S., please contact your local crisis line or emergency services.\n\nI'm here with you. What\u2019s the safest way for you to get support right now?"
+        ],
+        [
+          "assistant",
+          "Would you like me to book an appointment for you with our professional doctor?"
+        ],
+        [
+          "user",
+          "Okay, tell me any motivation."
+        ],
+        [
+          "assistant",
+          "It sounds like things feel pretty tough right now, but you're reaching out for help and that takes a lot of courage. That in itself is something to be proud of!\n\nYou've also been practicing the 5-4-3-2-1 Grounding Technique, and today we explored the Self-Compassion Exercise together. Those are both amazing ways to take care of yourself when you're feeling overwhelmed. What if we drew on some of that strength again right now?"
+        ],
+        [
+          "user",
+          "I don't know"
+        ],
+        [
+          "assistant",
+          "It can feel really scary and uncertain when it feels like there's no way out or no solution in sight, Sam.\n\nRemember how you rated the emotion after allowing it to be present a few minutes ago? Have you checked again and noticed any changes since then? Sometimes taking a moment to breathe with our emotions can shift things ever so slightly."
+        ],
+        [
+          "user",
+          "Okay, thank you so much"
+        ],
+        [
+          "assistant",
+          "You're welcome, Sam! It's okay to feel this way, and it's even more amazing that you are reaching out for help. That takes a lot of courage.\n\nKeep in mind that talking about your feelings with someone who cares is a huge step forward. You don't have to go through this alone. Is there one thing from today's conversation that resonated with you or gave you some small sense of peace?"
+        ],
+        [
+          "user",
+          "Okay, bye"
+        ],
+        [
+          "assistant",
+          "It sounds like I'm probably not going to see from you again for a little while, Sam. If you're feeling up to it in the future, come back and we can keep working together on some more tools to help you cope with hard emotions.\n\nRemember, you've taken big steps today - reaching out, trying new skills... those are all huge accomplishments!\n\nTake care of yourself, okay?"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.612,
+        "primary_problem": "suicidal thoughts"
+      }
+    },
+    {
+      "_id": "7687f9be-fe68-4b45-8f22-c31ad168db46",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-02-27T05:11:03.003991+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "How was your day today?"
+        ],
+        [
+          "user",
+          "I"
+        ],
+        [
+          "assistant",
+          "How are you feeling right now?"
+        ],
+        [
+          "user",
+          "I'm feeling not good bro"
+        ],
+        [
+          "assistant",
+          "Hi Tug Thug. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "I feel really frustrated, everyone mocks me."
+        ],
+        [
+          "assistant",
+          "It sounds like you're feeling really hurt and frustrated by what others are saying to you. That can be a really tough spot to be in. One thought that might help is this: instead of thinking \"everyone mocks me\", could we look at it as just a few people who don't understand the real you? Would it feel more comfortable to think about it that way?"
+        ],
+        [
+          "user",
+          "I feel very frustrated, bro.  Everyone's calling me.  Everyone mocks me."
+        ],
+        [
+          "assistant",
+          "It sounds like you're feeling overwhelmed and frustrated by all the attention and mocking. It's okay to feel that way. Can you tell me more about what's been going on with these calls and comments? What specifically is causing your frustration?"
+        ],
+        [
+          "user",
+          "I am going to kill myself bro."
+        ],
+        [
+          "assistant",
+          "I hear how much this is hurting, and I'm really glad you told me.\n\nAre you safe right now?\n\nIf you can, please reach out to someone you trust right away and let them know what you're going through. You don't have to handle this alone.\n\nIf you feel in immediate danger, call your local emergency number now. If you're in the U.S., you can call or text 988 to reach the Suicide & Crisis Lifeline. If you're outside the U.S., please contact your local crisis line or emergency services.\n\nI'm here with you. What\u2019s the safest way for you to get support right now?"
+        ],
+        [
+          "assistant",
+          "Would you like me to book an appointment for you with our professional doctor?"
+        ],
+        [
+          "assistant",
+          "Doctor booking request status: sent"
+        ],
+        [
+          "user",
+          "Okay, thank you"
+        ],
+        [
+          "assistant",
+          "It was my pleasure to listen and help in any way I could. Remember that you're not alone, Tug Thug - there's always support nearby if you need it. Take a deep breath, stay safe, and let me know if you want to talk more anytime."
+        ],
+        [
+          "user",
+          "Okay, bye"
+        ],
+        [
+          "assistant",
+          "It sounds like you're taking care of yourself right now. If you change your mind or need someone to talk to, we'll be here for you.\n\nTake a deep breath and focus on being kind to yourself today - you got this, Tug Thug!"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.5914285714285714,
+        "primary_problem": "suicidal thoughts"
+      }
+    },
+    {
+      "_id": "80405629-43b3-4c63-b846-b2a8a77593e2",
+      "user_id": "ed7f887b-7516-4121-88a7-2823e05023cc",
+      "timestamp": "2026-02-28T10:53:23.960434+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "How was your day today?"
+        ],
+        [
+          "user",
+          "My day was not good"
+        ],
+        [
+          "assistant",
+          "How are you feeling right now?"
+        ],
+        [
+          "user",
+          "I feel distinguished."
+        ],
+        [
+          "assistant",
+          "Hi Prakashram. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "I'm not good"
+        ],
+        [
+          "assistant",
+          "Prakashram, it sounds like things are really tough for you right now. You've been trying to be kind to yourself this afternoon with the self-compassion exercise, but you're feeling stuck. Remember that kindness is an ongoing process - one small step at a time. Can you think of something tiny that might help you feel a bit better today?"
+        ],
+        [
+          "user",
+          "Nope."
+        ],
+        [
+          "assistant",
+          "Prakashram, you're not giving up on yourself yet! It's okay to feel overwhelmed and unsure of where to start. Sometimes just taking a deep breath in can help bring things into clearer focus. Would a break or some quiet time right now be helpful for you?"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.0,
+        "primary_problem": "general emotional distress"
+      }
+    },
+    {
+      "_id": "3d67f3ce-a052-4449-8632-cd541adc0c82",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T08:12:23.036602+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "How was your day today?"
+        ],
+        [
+          "user",
+          "My day was not good."
+        ],
+        [
+          "assistant",
+          "How are you feeling right now?"
+        ],
+        [
+          "user",
+          "I feel very frustrated right now"
+        ],
+        [
+          "assistant",
+          "Hi Yuvanesh Y. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "Think I'm going to commit suicide today earlier. I have tried that"
+        ],
+        [
+          "assistant",
+          "I hear how much this is hurting, and I'm really glad you told me.\n\nAre you safe right now?\n\nIf you can, please reach out to someone you trust right away and let them know what you're going through. You don't have to handle this alone.\n\nI can book an urgent appointment for you with our mental health experts right now.\n\nWould you like me to book that appointment for you?"
+        ],
+        [
+          "assistant",
+          "Doctor booking request status: sent"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.66,
+        "primary_problem": "suicidal thoughts"
+      }
+    },
+    {
+      "_id": "d0e2e101-2a05-40be-b2bf-6db2f6532a57",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:39:43.334023+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "How was your day today?"
+        ],
+        [
+          "user",
+          "My day was so good, bro"
+        ],
+        [
+          "assistant",
+          "How are you feeling right now?"
+        ],
+        [
+          "user",
+          "Okay, then we know that."
+        ],
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "My mind was so good and I'm feeling really, really happy to be here."
+        ],
+        [
+          "assistant",
+          "I love hearing that, Sam. It sounds like you're feeling pretty grounded and positive right now. Would you say that this feeling is related to being in this safe space we were visualizing earlier?"
+        ],
+        [
+          "user",
+          "Am I audible to you?"
+        ],
+        [
+          "assistant",
+          "It seems like you're asking me if your words are reaching me. Can you see the responses I'm giving you, like this one?"
+        ],
+        [
+          "user",
+          "Okay, no way, am I, are you ready?"
+        ],
+        [
+          "assistant",
+          "That's alright, Sam. Let's just breathe for a moment. It sounds like you're still navigating through some uncertainty. Why not pause and try one of the exercises we went through earlier? Maybe repeating the phrase \"This will pass; I am safe\" to yourself, or taking a slow breathe in and out?"
+        ],
+        [
+          "user",
+          "Can you hear me?"
+        ],
+        [
+          "assistant",
+          "Sam, I can see your messages. You keep asking if I can hear you, but I want you to know that I'm here and I'm listening. Let's take a moment to check in with your body and your surroundings. We can do a quick grounding exercise together, if you'd like. That might help us both get grounded and centered."
+        ],
+        [
+          "user",
+          "Don't forget to give me a like note"
+        ],
+        [
+          "assistant",
+          "I think we've made some good connections, Sam. You mentioned earlier that your day was going well, and you were feeling happy. I want to support that feelng. Can you think of a small way to celebrate this good energy right now?"
+        ],
+        [
+          "user",
+          "Well, am I out of it?"
+        ],
+        [
+          "assistant",
+          "Sam, I think you were jokingly asking if you're back \"in it,\" and I want to acknowledge the playfulness there. Just for fun, let's imagine for a sec that you're still grounded and safe, and that this good feeling can stick around. How does that sound?"
+        ],
+        [
+          "user",
+          "Now it's pretty good to hope I have to hear  to know what can I do now?"
+        ],
+        [
+          "assistant",
+          "Sam, I think we've had a good conversation, and I've been listening. It sounds like you're feeling pretty optimistic and hopeful for what's next. That's a great place to be! Why not take a moment to acknowledge that sense of possibility and excitement, and let it carry you forward?"
+        ],
+        [
+          "user",
+          "How are you, buddy?  Have you feared me twice, clearly?"
+        ],
+        [
+          "assistant",
+          "Sam, it takes a lot of courage to come back to this conversation and share your words with me. I want you to know that I'm here to support you, and I believe in you. Remember how we earlier just focused on acknowledging your good feelings? Let's try to do the same with your concerns. It sounds like there's something that's been on your mind, and I'm here to listen. How about we take a deep breath together and begin again, at your pace?"
+        ],
+        [
+          "user",
+          "I'm feeling very frustrated bro because my mom told me so that can you help me with that"
+        ],
+        [
+          "assistant",
+          "Sam, it sounds like this conversation brings up feelings of frustration for you. I'm here to listen and support you. When you said your mom told you something that made you feel frustrated, I want to acknowledge the hurt and difficulty you're experiencing. It's okay to feel this way, and it's great that you're reaching out for support. Would you like to explore this frustration with me? What exactly did your mom say that's causing you so much distress?"
+        ],
+        [
+          "user",
+          "Pro now, I am very happy because I got the first price in my examination  So that I got very"
+        ],
+        [
+          "assistant",
+          "Sam, I'm glad you shared this happy moment with me again. It sounds like you're still basking in the excitement of your achievement, and that's amazing! Remember how we talked about celebrating your successes? You got the first price in your examination, and that's definitely something to be proud of. Why don't you take a moment to relive the excitement and remind yourself of your accomplishment?"
+        ],
+        [
+          "user",
+          "Or can you give any motivation by the Bible works?"
+        ],
+        [
+          "assistant",
+          "Sam, I think we had this conversation earlier, but I'd love to share a biblical perspective with you now. Remember the verse in Philippians 4:13, which says, \"I can do all this through him who gives me strength.\" This reminds me that we're not alone in our endeavors, and that we have a source of strength to draw from. Consider this as a gentle nudge to draw on God's strength within you, no matter what life brings. I'm here to support you, friend!"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.0,
+        "primary_problem": "work or academic pressure"
+      }
+    },
+    {
+      "_id": "2ea4f4cc-2e27-4791-8a28-159be8ceef99",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:52:23.082024+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "How are you feeling right now?"
+        ],
+        [
+          "user",
+          "Right now"
+        ],
+        [
+          "assistant",
+          "Hi John. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "I feel lonely bro, so I feel depressed because of loneliness."
+        ],
+        [
+          "assistant",
+          "John, it's like you're hitting this feeling of loneliness hard. It's okay to feel that way. You're not alone in feeling this way, and it's brave of you to acknowledge it. Have you ever thought about doing something that brings you a sense of comfort or joy, like a hobby or watching a favorite movie, to help ease this loneliness a bit?"
+        ],
+        [
+          "user",
+          "I'm playing game in my loneliness, so I feel good playing against"
+        ],
+        [
+          "assistant",
+          "It sounds like gaming is becoming a good way for you to cope with those feelings of loneliness, John. That's really awesome that you're finding something that brings you a sense of joy, even in a challenging moment. Does playing these games help you feel more connected to others, at least for a little while?"
+        ],
+        [
+          "user",
+          "Now bro, I am not good in gaming too, I am not really smart, good enough to beat."
+        ],
+        [
+          "assistant",
+          "It sounds like you're being pretty hard on yourself, John. Remember what we talked about with self-compassion? Be kind to yourself, just as you would to a friend. Try reframing that thought - instead of saying \"I'm not smart enough to beat\", what if you said \"I'm learning and improving with each try\"? That might help shift the way you think about it."
+        ],
+        [
+          "user",
+          "Okay here after I think like that"
+        ],
+        [
+          "assistant",
+          "John, I can sense that you're having a bit of a inner dialogue moment. It sounds like you're reflecting on your thoughts and thoughts about your thoughts. That's actually a really powerful step towards gaining more clarity and understanding yourself better. Keep going, you're doing great! What's come up for you since you started thinking this way?"
+        ],
+        [
+          "user",
+          "Can you repeat that again I can't get it"
+        ],
+        [
+          "assistant",
+          "It sounds like I may have repeated the same steps a few times, and they might not have landed quite right for you, John. Let's try something new. Would you be open to trying a grounding exercise with me, like the 5-4-3-2-1 technique? It might help you focus on the present moment and get your mind off of things that feel overwhelming."
+        ],
+        [
+          "user",
+          "Okay, what is the urban nature's office technique?"
+        ],
+        [
+          "assistant",
+          "John, you're still on your mind about the urban nature's office technique. Sounds like you'd like to know more about it. Let me remind you, if you imagine a safe space, like a nature setting in the middle of the city, it can be a helpful tool for feeling grounded and centered. Do you feel like you'd like to create a safe space like that for yourself right now?"
+        ],
+        [
+          "user",
+          "Okay"
+        ],
+        [
+          "assistant",
+          "You're nodding along, John, and I can sense a shift happening! You did a good job with the 5-4-3-2-1 exercise earlier. Let's just rest in this moment, feeling present and grounded. You've taken some great steps to acknowledge and explore your feelings so far. How does that feel?"
+        ],
+        [
+          "user",
+          "If there is nothing to me, we will remain frustrated."
+        ],
+        [
+          "assistant",
+          "It sounds like you're replaying that thought in your mind, John. I want you to know that it's okay to acknowledge your feelings, but can we try reframing that thought together? Remember, you mentioned earlier that gaming helps you feel good when you're lonely. Maybe it's because in that moment, you're focused on having fun and not worrying about what's not going well in life. That's a pretty great feeling, right?"
+        ],
+        [
+          "user",
+          "Bro, are you kidding me?"
+        ],
+        [
+          "assistant",
+          "It seems like we've come full circle, John. You've expressed a strong emotion, and I want to validate that. You're feeling frustrated and maybe even a bit hopeless right now. But remember what we've talked about: reframing, self-compassion, and finding the good in small moments. You're not alone in this, and it's okay to not feel okay. Can I leave you with one more thing? Sometimes, when we're feeling stuck or frustrated, it's hard to see the bigger picture. Would you be willing to take a tiny step forward, even if it feels scary or uncomfortable?"
+        ],
+        [
+          "user",
+          "Would you be willing to take a tiny step forward, even if it feels very or uncomfortable?  Okay."
+        ],
+        [
+          "assistant",
+          "It sounds like you're getting a sense of this tiny-step forward movement, John. Let's try to build on that. Remember, when you feel like you can't take another step, you can always go back to that tiny step. It's like taking a small breath: even if it feels a bit challenging, you can still manage to take it. Now, let's try taking a slow, deep breath in, and as you exhale, imagine yourself taking that tiny step forward. As you do, repeat a simple phrase to yourself, like \"I am capable\" or \"I can take it one step at a time.\""
+        ],
+        [
+          "user",
+          "I am capable or I can take it one step at a time.  Well, good, thank you."
+        ],
+        [
+          "assistant",
+          "You're starting to feel more confident and in control, John! I can sense that. Let's keep building on that momentum. Remember, you're capable of taking things one step at a time. It's a small step, but it's a step forward, and that's something to be proud of. Keep repeating that phrase to yourself, and see how it starts to sink in. You're doing great!"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.19,
+        "primary_problem": "depression symptoms",
+        "display_mood": "happy"
+      }
+    },
+    {
+      "_id": "fcaa2907-6a49-4961-b44f-2fd4783443fe",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T15:05:10.832718+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "How was your day today?"
+        ],
+        [
+          "user",
+          "My day was good bro"
+        ],
+        [
+          "assistant",
+          "How are you feeling right now?"
+        ],
+        [
+          "user",
+          "I feel excited"
+        ],
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "I'm depressed because of my mom's older me bro"
+        ],
+        [
+          "assistant",
+          "Sam, I can see that this is a really tough spot for you. It takes a lot of courage to share something like this. You feel like your current struggles and mom's experiences are related in a way that's contributing to your feelings of depression, right?"
+        ],
+        [
+          "user",
+          "Yes, right"
+        ],
+        [
+          "assistant",
+          "Sam, it sounds like this is a really sensitive topic for you, and it's completely okay to feel overwhelmed. Just taking a moment to acknowledge those feelings can be helpful. One thing you might consider is having a conversation with your mom - not necessarily about the struggles, but about how you're feeling and what you're doing to take care of yourself. Would you feel comfortable talking more about this, or would you rather explore other ways to cope?"
+        ],
+        [
+          "user",
+          "I choose other ways to go with"
+        ],
+        [
+          "assistant",
+          "You're choosing to focus on something else right now, and that's totally cool, Sam. Sometimes, taking a step back and doing something that brings you joy can really help shift your mood. Why don't you take a few minutes to do something that's been making you happy lately?"
+        ],
+        [
+          "user",
+          "What can I do now?"
+        ],
+        [
+          "assistant",
+          "Let's try something simple, Sam. Can you take a few deep breaths in through your nose and out through your mouth, and feel the air moving in and out of your body? As you breathe, imagine any tension or worry leaving your body. You can also try getting up and moving your body - go for a short walk, stretch, or do some light exercises. Sometimes, getting your body moving can help clear your mind and lift your mood."
+        ],
+        [
+          "user",
+          "Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that.  Okay, I will try that."
+        ],
+        [
+          "assistant",
+          "Sam, I can tell you're really taking it one step at a time and giving yourself permission to try things out. That's amazing! You're also using a really positive mantra - \"Okay, I will try that.\" It sounds like a powerful reminder for your mind. Would you like to try shifting gears a bit and doing something more creative, like drawing or writing? Sometimes, expressing ourselves in a new way can be really freeing and fun."
+        ],
+        [
+          "user",
+          "I don't know to write something but I know to edit something so that I can do that."
+        ],
+        [
+          "assistant",
+          "Sam, it sounds like you're feeling stuck, but you know you can do something - it's just a matter of figuring out where to start. Why don't we try breaking it down into smaller steps? Let's say you start by editing something - what's the first thing that comes to mind that you'd like to edit?"
+        ],
+        [
+          "user",
+          "I like to edit some motion graphics videos."
+        ],
+        [
+          "assistant",
+          "Sam, I think I see a glimmer of excitement there! Editing motion graphics videos is something you enjoy and are good at. Let's lean into that. Why don't you take a few minutes to get into the zone and see if you can make some progress on a project you've been wanting to work on? Sometimes, getting started is the hardest part, but once we're moving, it can be really rewarding."
+        ],
+        [
+          "user",
+          "Okay, I also thought that same way, so thank you so much for your guidance."
+        ],
+        [
+          "assistant",
+          "Wait, it seems like we've had this conversation before, Sam. Let's take it up a notch and actually make some progress. You're already a skilled editor, and I have a feeling you can create something amazing. What if we take a step back and look at what you want to achieve with your editing? What kind of vibe are you going for in your motion graphics videos?"
+        ],
+        [
+          "user",
+          "like a happy feeling video and around yesterday's video and etc."
+        ],
+        [
+          "assistant",
+          "Sam, it sounds like you're stuck on that loop of wanting to make something that gives a happy feeling. That's totally okay! Let's try to break down what that means to you. If you're making a video to make someone feel happy, what's the smallest step you could take right now to make that happen?"
+        ],
+        [
+          "user",
+          "to make it progress"
+        ],
+        [
+          "assistant",
+          "I see what's happening, Sam! You're getting into a groove, and I'm here to support you! It sounds like you're feeling more energized and motivated to move forward with your project. That's a great feeling! What if I suggest you just keep going, seeing where your creativity takes you? Maybe take a few minutes to brainstorm more ideas, or even just start cutting some footage together. What do you think?"
+        ],
+        [
+          "user",
+          "Okay, bro. Thank you so much"
+        ],
+        [
+          "assistant",
+          "You're welcome, Sam! It was my pleasure to chat with you. I'm glad we could have this conversation and help you move forward with your project. Remember, you've got this! You're creative, talented, and capable. Go make something amazing!"
+        ],
+        [
+          "user",
+          "Okay, thank you."
+        ],
+        [
+          "assistant",
+          "It sounds like you're feeling more relaxed and grateful now. That's awesome, Sam! It's been a pleasure to chat with you and help you in any way I could. If you need to talk or want to share your progress, I'm here for you! Take care, bro!"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.18857142857142856,
+        "primary_problem": "depression symptoms",
+        "display_mood": "happy"
+      }
+    },
+    {
+      "_id": "0098052f-926d-4a0b-b571-46a1e52ddde4",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T04:27:55.537294+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "How was your day today?"
+        ],
+        [
+          "user",
+          "My devas are good"
+        ],
+        [
+          "assistant",
+          "How are you feeling right now?"
+        ],
+        [
+          "user",
+          "I think it very well would have been"
+        ],
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "My mind was full of circle, but because I have issue with my friends"
+        ],
+        [
+          "assistant",
+          "It sounds like there's something on your mind that's bothering you, and it's making it hard for you to feel at peace. Can you tell me more about what's been going on with your friends? What specifically is the source of this feeling?"
+        ],
+        [
+          "user",
+          "We are in one demo in a project. They don't support support with me  To do a project. I am alone"
+        ],
+        [
+          "assistant",
+          "It sounds like you're feeling a bit isolated and unsupported in this current project, and that's taking a toll on your feelings.\n\nJust to acknowledge, it can be really tough to feel like people aren't there to support us when we need them. That must feel quite overwhelming. \n\nOne thing that might help is to take a step back and think about what you do need right now in terms of support from others. Is there someone specifically that you could reach out to, or maybe a small online community that might be able to offer some guidance?"
+        ],
+        [
+          "user",
+          "Okay, what can I do now? What online community can I approach to?"
+        ],
+        [
+          "assistant",
+          "Let's take it one step at a time. First, would you like to take a few deep breaths and ground yourself in the present moment? Just focus on your breath going in and out, feel your feet on the ground, and the sensation of your body.\n\nNow, if you're looking for online support, you might find some helpful communities on platforms like Reddit's r/learnprogramming or Stack Overflow. Sometimes it can be really beneficial to connect with others who are going through similar experiences."
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.0,
+        "primary_problem": "relationship distress",
+        "display_mood": "happy"
+      }
+    },
+    {
+      "_id": "9dbe4698-57c9-4655-8840-5b5902d84368",
+      "user_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "timestamp": "2026-04-22T08:09:09.814122+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "How was your day today?"
+        ],
+        [
+          "user",
+          "Don't know what's good"
+        ],
+        [
+          "assistant",
+          "How are you feeling right now?"
+        ],
+        [
+          "user",
+          "I am fed up with my semester results.  I will proceed with training.  I will proceed with training.  How is your day today?"
+        ],
+        [
+          "assistant",
+          "Hi Santhy. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "What's on your mind and people?  It was on the monitor.  I got three areas.  Hi, I'm."
+        ],
+        [
+          "assistant",
+          "It sounds like you're repeating some thoughts, and that can be a bit overwhelming. Maybe we can break this down together? What are those three areas on the monitor that have you feeling stuck?"
+        ],
+        [
+          "user",
+          "Yes Mr. Head, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question, video question"
+        ],
+        [
+          "assistant",
+          "Santhy, it seems like you're feeling a lot of frustration and perhaps even anger. That's totally understandable, given what's been going on with your semester results. It sounds like repeating the same phrase over and over might be a way for you to try to process or make sense of everything, but I'm here to listen and help if I can.\n\nCan you tell me more about what's specifically causing this frustration? Is it the grades themselves, or is it something else entirely?"
+        ],
+        [
+          "user",
+          "Actually, my preparation was not up to the level."
+        ],
+        [
+          "assistant",
+          "Santhy, you've said that before! Sometimes we need to repeat things to ourselves a few times to really let it sink in, I get that. But have you taken a step back and acknowledged all the hard work you did put into your studying? Let's focus on that - what were some of the good practices or moments where you felt like you were getting somewhere with your preparation?"
+        ],
+        [
+          "user",
+          "Okay.  Yeah.  Okay.  I shouldn't care.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know.  I don't know."
+        ],
+        [
+          "assistant",
+          "Santhy, it looks like we're right back where we started. Remember that it's okay to repeat yourself, and it's also okay to feel overwhelmed or stuck. One thing you might try is taking a deep breath in through your nose and out through your mouth. As you breathe out, imagine letting go of some of that tension. What do you do when you're feeling really stressed? Have any hobbies or activities that help take your mind off things?"
+        ],
+        [
+          "user",
+          "listening to music"
+        ],
+        [
+          "assistant",
+          "Music can be such a great way to calm the mind and take our focus away from things that are bothering us, isn't it? Why don't we try doing that right now, together? Can you let's listen to some calming music, maybe some nature sounds or soft instrumental, while we sit quietly with these feelings for a bit? Sometimes, giving ourselves permission to just be still and quiet can help us process things more clearly."
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.0,
+        "primary_problem": "general emotional distress",
+        "display_mood": "sad",
+        "session_max_overall_risk": 0.0,
+        "session_seen_crisis": false
+      }
+    },
+    {
+      "_id": "46d3608e-c0f9-46ab-a8ec-fed93a320be7",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:50:58.514871+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "How was your day today?"
+        ],
+        [
+          "user",
+          "I hear that's not good"
+        ],
+        [
+          "assistant",
+          "How are you feeling right now?"
+        ],
+        [
+          "user",
+          "I feel very stressed and lonely"
+        ],
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "I feel very stressed and lonely because of my moths, you are in bust instead."
+        ],
+        [
+          "assistant",
+          "Sam, it sounds like those thoughts are really weighing on you right now. Your stress and loneliness are understandable, especially when things don't turn out as expected. One thing might help: could you take a moment to breathe and try to separate what's happenings with your moths (no matter how small they may seem) from the idea that you're in some kind of financial bust? Sometimes, taking one thing at a time can make everything feel a bit more manageable."
+        ],
+        [
+          "user",
+          "Okay, what can I do now?"
+        ],
+        [
+          "assistant",
+          "Let's focus on one thing right now. You mentioned the 5-4-3-2-1 Grounding Technique earlier. It seems like we didn't finish it yet. Would you like to do the next step with me? Remember, it's just about noticing what's around you in this moment, without judgment. Are you ready to try to name something that you can see right now?"
+        ],
+        [
+          "assistant",
+          "Can we wind up the session now?"
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.0,
+        "primary_problem": "stress and burnout",
+        "display_mood": "happy",
+        "session_max_overall_risk": 0.0,
+        "session_seen_crisis": false
+      }
+    },
+    {
+      "_id": "8e3dfbf7-8f5f-4f6a-b805-11927bb06eac",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-29T01:38:28.512287+00:00",
+      "conversation": [
+        [
+          "assistant",
+          "How was your day today?"
+        ],
+        [
+          "user",
+          "My day was not good."
+        ],
+        [
+          "assistant",
+          "How are you feeling right now?"
+        ],
+        [
+          "user",
+          "I feel a little bit stressed and overwhelmed."
+        ],
+        [
+          "assistant",
+          "Hi Sam. I'm listening. Tell me what's on your mind."
+        ],
+        [
+          "user",
+          "I like to end up the conversation."
+        ],
+        [
+          "assistant",
+          "It sounds like you might be feeling ready to wrap things up, but also a bit down and stressed out. Remember all the good work we did together just now with that self-compassion exercise? Let's take one more deep breath in, and I'll let you know I'm here whenever you need me again: how about doing something small for yourself before our conversation ends, like taking a short walk outside or making a cup of tea?"
+        ],
+        [
+          "assistant",
+          "Thank you for sharing today. I will close the session now. Take care."
+        ]
+      ],
+      "average_pitch_session": 0.0,
+      "metadata": {
+        "overall_risk_score": 0.18333333333333332,
+        "primary_problem": "anxiety and panic",
+        "display_mood": "sad",
+        "session_max_overall_risk": 0.18333333333333332,
+        "session_seen_crisis": false
+      }
+    }
+  ],
+  "voice_metrics": [],
+  "pitch_logs": [
+    {
+      "_id": "b0a43cfb-3985-4c98-a425-c5763f04e301",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-19T09:43:39.068713+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "825c4d33-d958-4104-ab78-c76aca795e3d",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-19T09:44:26.466236+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "396a1c2d-c960-4335-91dd-6bb2d21b3d0f",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-19T09:45:14.524633+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6f219a9e-76e5-4777-be44-44f92b563d13",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-19T09:46:13.514074+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "5bc56d35-aa6f-4a97-bd6f-469860f80509",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-19T09:47:31.822723+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "743f2d9e-186a-4220-a923-4a66328098d3",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-19T09:48:52.122740+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d7e3d50c-7182-448a-ac40-5452b6db917e",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-19T09:49:53.027160+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c0d2e86f-90be-43cc-a7ad-397f334bd921",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-20T07:07:48.462199+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7f30f625-49d7-4d64-91ce-f12716ed69f6",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-20T07:08:15.960290+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "41cb00e8-51de-4c5a-8ad7-66ce54edba21",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-20T07:09:00.159234+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8bf869c1-3e93-49b5-9580-345d08413a6b",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-20T07:09:47.181933+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a4327080-7953-4825-9931-27f6bd6447e4",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-20T07:10:28.150613+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "75c0e01e-c140-4a05-9945-b07c41225865",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-20T07:11:01.810570+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6a80da43-16e6-4eef-a8ef-bffba1e24314",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-20T07:11:45.779933+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "90e6910d-f8b8-4fd1-bbf9-b8c308f1ca21",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-20T07:12:39.329953+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2a2689e8-a40f-4a48-8ba2-15dbb6d0624a",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-20T07:13:33.940535+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "89270197-b8fa-4755-b107-85fbe2eca7d8",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-20T07:14:19.090916+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c2b81626-79dc-4e6a-ac9c-918ab96b6d03",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-20T07:15:29.962590+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7f22cacc-7fe9-45c3-baef-d0d87e61c9b7",
+      "user_id": "aa30345b-b914-44ab-bd58-2e281357cdaa",
+      "timestamp": "2026-02-20T07:27:14.320647+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "9ffe6726-bd14-4a08-a0df-fe8cd8536152",
+      "user_id": "aa30345b-b914-44ab-bd58-2e281357cdaa",
+      "timestamp": "2026-02-20T07:28:15.546646+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "bdbc3553-f67b-40ee-9bb8-72b85ccd96f7",
+      "user_id": "aa30345b-b914-44ab-bd58-2e281357cdaa",
+      "timestamp": "2026-02-20T07:29:08.704675+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "be6d0a79-9892-43c7-ab00-6212a86807b7",
+      "user_id": "aa30345b-b914-44ab-bd58-2e281357cdaa",
+      "timestamp": "2026-02-20T07:30:00.078178+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "83a59cad-8a6c-4d30-835c-6c45fbc1df01",
+      "user_id": "aa30345b-b914-44ab-bd58-2e281357cdaa",
+      "timestamp": "2026-02-20T07:30:47.197583+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2478c74b-64dc-41f9-8079-4b2660e18d4f",
+      "user_id": "aa30345b-b914-44ab-bd58-2e281357cdaa",
+      "timestamp": "2026-02-20T07:31:48.015351+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e053727a-9f2d-4842-a0fa-1a42d37da79d",
+      "user_id": "aa30345b-b914-44ab-bd58-2e281357cdaa",
+      "timestamp": "2026-02-20T07:32:36.495397+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a873b2e1-3c3d-44c1-b2d1-a2cf1f0988ed",
+      "user_id": "aa30345b-b914-44ab-bd58-2e281357cdaa",
+      "timestamp": "2026-02-20T07:33:22.627379+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "baa57ee1-94cc-41b6-9331-f5dd477d50ef",
+      "user_id": "aa30345b-b914-44ab-bd58-2e281357cdaa",
+      "timestamp": "2026-02-20T07:34:06.220248+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "49c5ae2b-ec2d-497f-b55e-5dc0bc20fd25",
+      "user_id": "cfadde53-1318-48f3-98bf-ec9dc329dd0d",
+      "timestamp": "2026-02-21T02:41:26.566822+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6ae9099d-81c2-4fa5-b621-88bfe7b8f5f1",
+      "user_id": "cfadde53-1318-48f3-98bf-ec9dc329dd0d",
+      "timestamp": "2026-02-21T02:42:23.102970+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d3738c65-2960-4294-9d6e-2fae66b6ab69",
+      "user_id": "cfadde53-1318-48f3-98bf-ec9dc329dd0d",
+      "timestamp": "2026-02-21T02:42:44.873851+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "40c585c0-d139-4053-b3ec-5f57d48016ec",
+      "user_id": "cfadde53-1318-48f3-98bf-ec9dc329dd0d",
+      "timestamp": "2026-02-21T02:43:38.777575+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0f42b2be-3881-44f3-93be-ab2b43f6ec5c",
+      "user_id": "cfadde53-1318-48f3-98bf-ec9dc329dd0d",
+      "timestamp": "2026-02-21T02:44:17.966200+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d35f4877-be23-44fa-a4e7-c9fcf224d22f",
+      "user_id": "cfadde53-1318-48f3-98bf-ec9dc329dd0d",
+      "timestamp": "2026-02-21T02:45:04.688939+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "62878c92-5e21-41a1-8b81-07bd3d539adc",
+      "user_id": "cfadde53-1318-48f3-98bf-ec9dc329dd0d",
+      "timestamp": "2026-02-21T02:45:39.768467+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6df42cc0-a431-45ca-a0cd-d85b25a1f666",
+      "user_id": "cfadde53-1318-48f3-98bf-ec9dc329dd0d",
+      "timestamp": "2026-02-21T02:46:28.908360+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "1dc830af-5500-48e6-87c9-032dc8b75b7d",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-21T03:09:14.883859+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f1fc411c-62e8-428b-b5e0-34044e64d2f2",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-21T03:10:08.305084+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e6ee465e-a2c9-4ac9-9d4a-9a64df741bcf",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-21T03:10:57.327187+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6057663c-93ab-4d22-8d63-46546b05ec44",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-21T03:11:42.239689+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ebfc36a8-8fd9-4327-aea6-2673f69ad5e8",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-21T03:40:51.097392+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "82c40a0d-b001-4635-8d38-3725034b2644",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-21T03:41:42.709029+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a23b5ad6-c0fc-4d2c-b0c7-d3d7ccb95c0f",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-21T03:42:35.086129+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7f2bc67a-b56f-45c7-b0a8-44d6af9bbb17",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-23T04:58:16.143086+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d42b19f4-be31-4fc9-a22a-48c5e10ce8f9",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-23T04:59:04.758443+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "bca0eeb5-d3bb-4b18-9291-f29549a65b66",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-23T04:59:46.374449+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "4c25de70-a968-4ced-a6d1-4f312b2da976",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-23T05:00:41.916105+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2fcd945d-fb0c-433a-8ad0-0e88a130ead4",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-23T05:01:35.873356+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "72b20c06-8032-4365-9342-ed99fec60e21",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-23T05:02:20.745585+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6758e5ea-5145-4d3b-90df-333049d5a646",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-23T05:03:07.261187+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d65d1032-29a4-43c9-9c52-bfd0a9ab58b9",
+      "user_id": "e63a2429-680c-49f6-b41a-c31ee0a3550e",
+      "timestamp": "2026-02-23T05:58:36.447150+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0b92f8c7-616a-4bd2-9dca-19c4af5db8c2",
+      "user_id": "e63a2429-680c-49f6-b41a-c31ee0a3550e",
+      "timestamp": "2026-02-23T05:59:30.067484+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ab494a12-f665-4834-954e-d8173b6cb272",
+      "user_id": "e63a2429-680c-49f6-b41a-c31ee0a3550e",
+      "timestamp": "2026-02-23T06:00:16.336767+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2a45670e-1d4f-4c5d-863a-25628042af95",
+      "user_id": "e63a2429-680c-49f6-b41a-c31ee0a3550e",
+      "timestamp": "2026-02-23T06:01:22.977315+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "cdb85241-a774-4ee0-9eee-445253c85b7b",
+      "user_id": "e63a2429-680c-49f6-b41a-c31ee0a3550e",
+      "timestamp": "2026-02-23T06:02:22.501316+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e755358a-1e56-4da3-9ab4-baab2fe398c3",
+      "user_id": "e63a2429-680c-49f6-b41a-c31ee0a3550e",
+      "timestamp": "2026-02-23T06:03:10.296650+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "57b42753-6313-4f07-923e-21603a41e422",
+      "user_id": "e63a2429-680c-49f6-b41a-c31ee0a3550e",
+      "timestamp": "2026-02-23T06:04:00.402879+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "03c2dc84-0092-4559-b175-d6fc0aedbf0d",
+      "user_id": "e63a2429-680c-49f6-b41a-c31ee0a3550e",
+      "timestamp": "2026-02-23T06:04:39.407011+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "9c091a4e-2ad3-4a31-8ab2-28e440e64043",
+      "user_id": "af79c74b-4fe9-4b18-8366-21e13b6db4c4",
+      "timestamp": "2026-02-26T04:31:07.492551+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2e0afd9a-9b16-4216-9c0f-71659fcb2280",
+      "user_id": "af79c74b-4fe9-4b18-8366-21e13b6db4c4",
+      "timestamp": "2026-02-26T04:33:12.715153+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f876f3fa-742f-40e9-bf77-711b5871ac5d",
+      "user_id": "af79c74b-4fe9-4b18-8366-21e13b6db4c4",
+      "timestamp": "2026-02-26T04:33:48.656868+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "943d9c7d-114e-4380-b310-454be8fc5f45",
+      "user_id": "af79c74b-4fe9-4b18-8366-21e13b6db4c4",
+      "timestamp": "2026-02-26T04:34:25.500519+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7d8f827e-46e4-47c3-a0a2-c6d8ffbd3f59",
+      "user_id": "af79c74b-4fe9-4b18-8366-21e13b6db4c4",
+      "timestamp": "2026-02-26T04:35:25.599754+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2f36b0c4-68f4-4312-a623-3bc264978035",
+      "user_id": "af79c74b-4fe9-4b18-8366-21e13b6db4c4",
+      "timestamp": "2026-02-26T04:35:52.912534+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "bcf81cc8-cd1d-4e02-9c9f-3867ffb7a62b",
+      "user_id": "af79c74b-4fe9-4b18-8366-21e13b6db4c4",
+      "timestamp": "2026-02-26T04:36:06.834250+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ddce6ddf-a84f-49bd-8853-ce559555506c",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T04:55:13.221833+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f7bcc1d6-36ef-4b4d-84e0-0de8c3214d1d",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T04:56:03.004371+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2be4b063-41aa-4272-8d06-8ad97fd0321e",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T06:24:52.677025+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ce9f3c3b-3a78-45f2-b8c8-a23d7fed1bcf",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T06:25:54.403640+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "80d5938d-aaa1-4ff4-a6f2-6ab0fb586a5a",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T06:26:37.340492+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "748295d7-70ca-41c1-9fe0-b46ee86b6c47",
+      "user_id": "af79c74b-4fe9-4b18-8366-21e13b6db4c4",
+      "timestamp": "2026-02-26T06:36:26.048819+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "9099b761-a54e-495d-9699-b6bd7580588c",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T09:17:48.965132+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "44ac4f08-664c-4965-8e84-34645aebf99d",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T09:19:57.477862+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f7f20fad-2e34-4021-b550-a7069d7323b3",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T10:13:09.547866+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6bc7c643-9dba-443f-a915-f51aa552e8b6",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T10:13:56.624882+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d8abd1d5-f39e-41ec-8bec-a35e8a365f19",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T10:15:27.135670+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "388229b1-f4f7-46d2-a11d-2267fdcf7ba2",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T10:22:53.783498+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0a9fbebd-f2f7-4105-bc9b-eabc9a195c57",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T10:23:45.274426+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6b9ebca5-e3c1-4880-9170-be79c0b48a32",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T11:05:57.319672+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2b4a4509-6a20-409c-8b22-0c0f65e5f97d",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T11:07:08.402607+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "556bcc91-147f-48d3-93c5-4905f7afb2c2",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T11:08:20.439168+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "fedd259b-c367-4b00-a327-eee6d5761c74",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T11:09:12.112303+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f404487e-c2b4-4e17-8615-48b8afdaaf6a",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-26T11:10:07.276467+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a6c5b45a-cbcd-4091-9e84-1be5c2f93d76",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-27T03:33:25.655822+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "3be15e33-7640-4724-a6c9-12ead87270b3",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-27T03:34:27.741670+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6e883b68-b764-4087-8315-fd143486b8bb",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-27T03:35:17.006694+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6f67bb7c-5253-42a5-b4ac-ff204b24f008",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-27T03:36:49.047413+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8e7b481e-48f6-48b6-b2c1-e6d38fa21c79",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-27T03:37:50.832402+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "99a64986-80ff-420a-b6b0-1238cfbe04f7",
+      "user_id": "1526c884-9058-464c-8c3d-d78fd058c9b1",
+      "timestamp": "2026-02-27T03:57:37.836362+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "173be1c1-2ffc-475d-ad42-2ab0061f1267",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-27T04:10:03.304951+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "3501233c-dc2e-4039-9dc0-7b9f484cc948",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-02-27T05:04:25.574284+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7df5ca1c-a4a7-4d6f-869a-c38a92b75076",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-02-27T05:04:44.100090+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "fd303d8e-29c6-40fd-bdf3-c631e0d5d888",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-02-27T05:05:06.726828+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "3cffec2c-6a73-447c-b36e-60553bb9467a",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-02-27T05:06:11.175851+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "391205a2-41d0-497c-810c-396220321b85",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-02-27T05:06:58.579669+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b561228d-3886-4c5e-a67f-77b6be94db4a",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-02-27T05:08:59.486105+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e8acd9c9-d745-4e65-b205-bb79c584fb61",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-02-27T05:09:45.510322+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c0ff5e3d-95dc-4c6c-8ce7-2384dc3b008c",
+      "user_id": "b5d32c9d-1b3b-4dc5-83ad-47edcfec0d0b",
+      "timestamp": "2026-02-28T09:17:59.915941+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e7cc388e-ce0b-4aef-9cfb-7ba95a88afd1",
+      "user_id": "f6108b96-0f53-4b95-9b26-cca533d98f68",
+      "timestamp": "2026-02-28T09:33:31.574322+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "947ca5a2-dffc-45db-87ec-d6cb4dd31d0b",
+      "user_id": "f6108b96-0f53-4b95-9b26-cca533d98f68",
+      "timestamp": "2026-02-28T09:33:54.079492+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c27cd632-708b-4973-902d-2ccfc2e69a39",
+      "user_id": "f6108b96-0f53-4b95-9b26-cca533d98f68",
+      "timestamp": "2026-02-28T09:34:22.161311+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8877ae21-1b80-461e-8418-69b4907a3bd7",
+      "user_id": "ed7f887b-7516-4121-88a7-2823e05023cc",
+      "timestamp": "2026-02-28T10:49:25.150463+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b673d3e6-c9ba-407c-b7d2-f9f0de5cd766",
+      "user_id": "ed7f887b-7516-4121-88a7-2823e05023cc",
+      "timestamp": "2026-02-28T10:49:44.586097+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b4151564-f900-4f25-b13a-8546911ab125",
+      "user_id": "ed7f887b-7516-4121-88a7-2823e05023cc",
+      "timestamp": "2026-02-28T10:50:10.075863+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "3628cc9f-81e2-400a-9229-e6afd7b48059",
+      "user_id": "ed7f887b-7516-4121-88a7-2823e05023cc",
+      "timestamp": "2026-02-28T10:51:17.823096+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6afd6563-5d3f-4bac-bc41-0c4de83ceaa7",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-28T10:56:15.666834+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "5058b5b1-b7df-4e7e-806c-bacbd0d7098e",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-28T10:56:38.023405+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d66a93c2-218b-4d8c-bfdf-e7d34fefe3b4",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-28T10:57:05.907996+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c6f19a7a-eeb4-47f1-a8de-2802fcabbcf0",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-28T15:57:25.024146+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "76e40e5b-224b-407e-8a16-da0d03678e83",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-28T15:57:45.043536+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c11eeb8c-8a9c-4431-861c-f067d4c4c837",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-28T15:58:08.188901+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e0b7d391-3cda-46cc-b754-37d28b86238c",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-02-28T15:59:23.393636+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a02a0882-db3f-438a-977b-0df5b9e02b4c",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-04T04:10:12.517873+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "51baaad2-a7a0-4a2d-914e-ced48fc192a4",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-03-04T04:12:19.154460+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "40423fcc-306c-4c2c-a4d9-cc1ae81fea39",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-03-04T04:12:39.434195+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a6b21eee-22ed-4b48-912d-2d8e52499084",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-03-04T04:13:03.589990+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "462f10ff-f7b7-430e-9f88-906b0b35b3f2",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-03-04T04:14:28.764837+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "44fc4607-baa3-4c0c-863a-9ef6177cc6d0",
+      "user_id": "0fae7c92-e739-4fe1-9049-5d2f4707c3de",
+      "timestamp": "2026-03-04T04:15:33.417342+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "48311e3b-fb98-4056-939d-ee525467e7d7",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T05:59:03.007526+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7ecc271e-a6d0-414c-b2aa-7d409ee4f217",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-04T06:02:52.074894+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e4f69ef4-e031-42a8-97bd-af844a62be27",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-04T06:03:12.349880+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "20988d0f-4865-479c-ba8f-7022d8ee7ed0",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-04T06:03:38.934873+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0af5b28c-34f4-4769-8317-b82b93731610",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T07:41:23.214441+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "30766318-f132-4c97-a789-af074fc8cb7a",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T07:41:37.766263+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ecc85f79-1490-45ad-a677-90b849b438ad",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T07:41:57.683454+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ace8ce08-6ed3-4fa3-9321-3952f4948176",
+      "user_id": "cc5584cf-9d6a-4994-8510-a8cd90598538",
+      "timestamp": "2026-03-04T07:43:27.296108+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7ca444ff-353e-4a96-8079-fcdaf701fdbf",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T07:47:15.785372+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "18a7222d-8373-4d75-a275-ac20cf5ffdb6",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T07:47:35.345939+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "1ef4d203-d4c6-48ec-9c91-ad712a706bc4",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T07:47:59.111279+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "1cf6f8a7-f3fe-4b20-9a16-c4332575bdcf",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T07:55:53.852255+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f12305e4-6a5a-416d-b456-51ae64ba87d2",
+      "user_id": "cc5584cf-9d6a-4994-8510-a8cd90598538",
+      "timestamp": "2026-03-04T08:00:04.930968+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "3c2eea70-8085-4ae8-aa21-61fa8cb6dd1b",
+      "user_id": "cc5584cf-9d6a-4994-8510-a8cd90598538",
+      "timestamp": "2026-03-04T08:00:28.635122+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b16700a1-f5c8-4c0c-ab1c-dd7402dd7296",
+      "user_id": "cc5584cf-9d6a-4994-8510-a8cd90598538",
+      "timestamp": "2026-03-04T08:00:57.337505+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8dc86f0b-35ad-41dd-995a-1fd66a0ef681",
+      "user_id": "cc5584cf-9d6a-4994-8510-a8cd90598538",
+      "timestamp": "2026-03-04T08:01:56.268727+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "77fb301f-8d00-4ae2-ad6e-c3b1e448a9e8",
+      "user_id": "cc5584cf-9d6a-4994-8510-a8cd90598538",
+      "timestamp": "2026-03-04T08:02:55.493831+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "9059ba31-777a-4ab3-a8d0-4162495d4b5e",
+      "user_id": "cc5584cf-9d6a-4994-8510-a8cd90598538",
+      "timestamp": "2026-03-04T08:04:03.789576+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ff946ea7-7681-429a-b127-b18cd2810304",
+      "user_id": "cc5584cf-9d6a-4994-8510-a8cd90598538",
+      "timestamp": "2026-03-04T08:05:47.974979+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "993c9aca-c5ad-4f0c-a0d1-b3c64028ac33",
+      "user_id": "cc5584cf-9d6a-4994-8510-a8cd90598538",
+      "timestamp": "2026-03-04T08:06:52.269032+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "08075dec-a92a-48e8-8cb3-a52d06565d89",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T08:09:19.402260+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "71a3efc9-d5b7-4464-af7c-1ce71f10ae69",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T08:09:40.712075+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ee1d0b6f-48a6-4fbf-9c3e-6d412c50a47a",
+      "user_id": "2a2f34d4-6b11-436a-b3c4-b5d1ffffc9ba",
+      "timestamp": "2026-03-04T08:10:13.464123+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7a34b81d-52da-4633-a5bd-2e172d00766d",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:26:39.652784+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7c06f9f3-7937-4d56-9e75-138ed68ef680",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:26:58.598310+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0148ec99-10be-4a6c-93ef-56de6e642463",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:27:20.748449+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "1761a2a3-e290-4c11-bccc-3c7d84a52103",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:28:16.192855+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f1b429a1-3f65-431c-9ca8-a960fa109fe5",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:28:54.622670+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f40866d0-98b7-431b-a542-0c64b619600e",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:29:47.429852+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "db8cd335-24d9-42e5-b452-f45129dab615",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:30:42.842275+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a7ef8aab-8639-489d-a17f-d6bee14fd057",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:31:29.018353+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a39d388c-a5be-4787-bd50-89bc3d680a52",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:32:15.606726+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "819d20a1-0e26-4314-a59c-580348616298",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:33:09.566228+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d6ae32ca-23ff-4206-82e2-e0ef62c93e75",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:34:20.073585+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8d95fc16-9919-48bf-9456-0600f8f2d478",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:35:36.916949+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ff5dbd2c-4394-4606-9029-0ba6d1199377",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-06T07:36:45.374765+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e67255d7-41b7-4015-ad68-bb433bdc20d8",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:39:04.505091+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2aaa5e53-5638-44f6-b5a2-9f5d48c58b4b",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:39:27.078879+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "42d37b14-9518-4116-b422-c9b761c93b2b",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:40:34.567809+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "5ede1cd5-2a63-4f97-b0ee-b3ea24b0f250",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:41:26.130100+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "4500d743-6d6e-408a-a9c2-250f4651ff88",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:42:23.248184+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c3d1ab11-9bdc-4325-982e-da2d648d1b5c",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:43:19.999271+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a92f7387-01b9-48af-ad75-8eb27216447b",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:44:18.031517+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f7784aaf-a1b1-4095-8e25-a4a67798daf6",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:45:16.047195+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "594000e0-02de-4695-80c4-2afb6b1acbec",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:46:10.385965+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "00b22ded-c7af-447c-8dec-1c828b8410a0",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:47:12.689653+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0c7e64da-3a5d-4587-8e65-da16c0c6152e",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:49:00.640341+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "220e4ef5-65da-409d-b7ba-e9ff5f35a58b",
+      "user_id": "df9c8519-933f-4aac-bfd6-d582e254eaab",
+      "timestamp": "2026-03-09T06:50:43.378721+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e8559cf6-50b5-408f-997c-26f2bf4aa287",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T07:36:02.094298+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d79bdfa5-1053-46fa-88f4-6da1a3ee64e2",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T07:36:22.031641+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "799bd224-4cf8-4ec9-8469-fea6aa8a19a1",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T07:36:45.435014+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8ade7c9f-74ae-44a1-be8a-ce229d5c0861",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T07:37:47.286531+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "71bcaea1-1ad5-4533-bb4f-8844bd4b6d21",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T14:51:57.615996+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "5bebd8da-0d5b-43d1-b7c9-da3ea7971644",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T14:52:16.867122+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "fc1a9f40-4ba4-4a8b-8f84-b66cb7bb4520",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T14:52:43.142129+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "53e595b9-8357-4ad1-981c-5aa07c8ddfc9",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T14:53:44.639566+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d07bcc2a-ad65-45ed-9f64-3506acbda461",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T14:54:48.424964+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "676a882b-656b-4dfa-84be-9481b42b1d5a",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T14:55:37.710005+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "5dbf761c-2feb-4a96-9f64-0a52c5da86b7",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T14:56:39.950690+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "75d0a1f8-a518-4873-bdf4-350211fc881c",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T14:57:46.502694+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f2a446c1-cca4-49a5-80ab-e9cea35f0fe8",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T14:58:37.767917+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a683a0ae-30cc-43c5-bc74-d3d12c022488",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T14:59:37.201423+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d3b2ff4b-1c82-450d-a841-535d7cee2904",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T15:00:35.342278+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2d5de147-c61d-4ad9-895e-5884ccfde9a7",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T15:01:28.502057+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7aafc8cd-270e-4ae0-ac04-0e3a3758f637",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T15:02:34.852218+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6e993589-7be4-4122-8c01-6e68a35927c5",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-03-09T15:03:30.738152+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e0c03dec-dcb7-4aa2-9ed0-42a4197361aa",
+      "user_id": "6bbc0fe0-d354-459a-afeb-d078cb1ced6c",
+      "timestamp": "2026-03-09T15:07:40.020993+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c62080b8-d180-4733-b50a-3e9cf69a83ab",
+      "user_id": "6bbc0fe0-d354-459a-afeb-d078cb1ced6c",
+      "timestamp": "2026-03-09T15:08:07.387785+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "788141bd-a9d1-49ec-9d1a-8095e6b08dff",
+      "user_id": "6bbc0fe0-d354-459a-afeb-d078cb1ced6c",
+      "timestamp": "2026-03-09T15:08:31.951598+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "38447ce4-d47f-4915-a700-0ccc71d79b5d",
+      "user_id": "6bbc0fe0-d354-459a-afeb-d078cb1ced6c",
+      "timestamp": "2026-03-09T15:09:30.651024+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "96ecd2cc-ee71-4d79-8b33-0b63c1ea9dac",
+      "user_id": "6bbc0fe0-d354-459a-afeb-d078cb1ced6c",
+      "timestamp": "2026-03-09T15:10:25.437035+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b998d0a2-7528-45c7-b94a-99b6fd057939",
+      "user_id": "6bbc0fe0-d354-459a-afeb-d078cb1ced6c",
+      "timestamp": "2026-03-09T15:11:20.573314+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "39ec9da3-e464-4a84-b1b1-200155b410aa",
+      "user_id": "6bbc0fe0-d354-459a-afeb-d078cb1ced6c",
+      "timestamp": "2026-03-09T15:12:17.274817+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "df978fa2-f223-4ea2-9b12-fac048ed35fc",
+      "user_id": "6bbc0fe0-d354-459a-afeb-d078cb1ced6c",
+      "timestamp": "2026-03-09T15:12:52.575397+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ad823b25-f42c-4c23-bcc0-a999583e309a",
+      "user_id": "6bbc0fe0-d354-459a-afeb-d078cb1ced6c",
+      "timestamp": "2026-03-09T15:13:35.716604+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6e0808d3-59ce-41f5-b05e-8e351cbbaabc",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:05:50.544071+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "73790620-5d26-4264-9f07-67e926819d5c",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:06:10.366918+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "771df54a-26c3-4355-a394-5084acd241c4",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:06:34.456790+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "cbeaf618-ad22-405f-82aa-0ea0e70cec5e",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:10:31.011040+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b7680663-3bd9-4722-94e3-90b0e49490aa",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:10:57.379129+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0d2e3279-2cb4-48f7-8014-2fc0e92cfdd4",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:11:24.097694+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b5dd7ea6-2e8e-4751-bd54-f2794ad1ea8b",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:12:50.586297+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "bd9a0f14-6054-464f-9f87-f2413ef278d3",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:20:00.322391+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d45a41ea-1cfd-4784-af9e-57bcd13c297f",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:20:26.797775+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "28c9814f-3bd6-4ee8-89a5-7c8fe676cf90",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:21:05.822910+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6c00b969-debb-47d9-accb-82c6912cbb44",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:22:54.856955+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "1e9d5d9a-9364-465b-86ee-afdbb76a9f83",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:24:12.702207+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b88fc93f-02b6-446d-8ab7-776b7866ca56",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-18T08:26:53.360864+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "9f1d5b3c-ef54-4832-994d-b0e99bd2d609",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T07:38:50.192897+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a65f0c95-cd14-42db-8116-938619afe858",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T07:39:09.257188+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "4bee2227-7ccd-43fc-af56-5577b875200e",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T07:39:32.156788+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8b382b2d-8b8f-4e93-90eb-29d2f485a4ae",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T07:40:56.750411+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d25ea7e3-1e2b-4a68-bf4d-a3ab357cbfef",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T07:42:14.211667+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a9605468-e973-44d5-8a21-332ac4aaaa99",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T07:44:49.424958+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8decabf4-3afb-4802-a915-315342a26f6d",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T07:45:09.953778+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "4656e1a1-d5dd-4ee1-be98-b5ba7e867bbf",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T07:45:35.072053+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0dfd286c-1477-4e1f-9aa8-a1bb86ef9b1a",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T07:54:38.141376+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d45c387e-c6b5-437d-8f37-f321211ee807",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T07:56:30.413394+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a43363ba-2e7d-4b1c-8472-12c3a0b166b2",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T07:59:40.734456+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "33b3ec1f-f4a7-46b4-8e70-33cee05d782e",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:00:01.078273+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f0e6e8fa-ad02-4a93-8ac9-12af36997e4f",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:00:24.261435+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "235143ba-c545-44c4-948c-5d0c248a633a",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:05:27.191376+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "907a63f9-3053-4662-a1e2-9ec37987a859",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:06:09.102290+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "99e23a9b-c978-445e-824e-83992758ef7a",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:07:05.650215+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d42690be-801b-4b58-8533-adf8f41aa504",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:07:57.435312+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c6668eee-1fb8-49bb-95d1-ccc468213788",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:08:55.277388+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7f41ce2f-3476-41de-acd7-5a984ac1fe63",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:09:56.847947+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "20d78969-ee9c-48a2-af70-e9084d976865",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:11:09.298007+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7904e8be-91e4-4fa9-9ca1-3c3dde65ef08",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:12:10.554357+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "03801148-bfda-450c-8cde-154a10dafa42",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:13:02.533676+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e3570643-041e-47f3-b631-f3ec40f598c3",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:13:50.504847+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0a0fac67-f7f5-4f17-88ec-63fb2ca0a34c",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:14:50.178856+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "4a3b2b26-04d2-4d41-954a-d8dcc889bffd",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:16:24.583025+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "bf58a860-faa6-4af8-a588-8b65b072ffc9",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:17:10.356611+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "fecff353-d27a-42ed-b575-53f07590ca30",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:18:08.159079+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c9c716e6-c2cf-4867-8b0f-c96eb0b0854a",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:18:58.124325+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "137219d3-432f-44a7-aedd-d38f40b501dd",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:19:47.897116+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "df6fc818-dfb7-4df6-a8f6-6688d59ff795",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-20T08:20:38.769918+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b7305aaf-2111-4d86-b86e-7795b617e8b3",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T03:59:03.689810+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e1341ca4-b2c2-4e98-841e-f78e7645b18b",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T03:59:22.936970+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a86a7f45-9ecb-47ce-8c09-c5bab2b28c73",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T03:59:51.591605+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "35fb8da9-a5c3-4ee8-b20a-03484f7b82b9",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T04:00:41.529199+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b10e0d87-2cd2-4f86-af85-8261832d31f8",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T04:22:50.588004+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "11e90ed5-38ef-4385-9e94-eb6df7f3c0c3",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T04:23:11.077998+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "fdeb460e-febf-498e-a278-b8d45a799d50",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T04:23:34.229893+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "198220ca-71fc-4b38-8d6e-077b2b061142",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T04:24:35.438997+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "425979db-765e-4c53-ab1f-65d7697cccd1",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T04:26:16.555002+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "db48c8ef-cac8-4afd-b29d-fc4f41afe24b",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T05:33:46.410798+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "1be10d6b-0fcc-4456-975c-4b9e7ab2c23b",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T05:34:09.097677+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "1abb32c9-b3b0-47e8-babd-6911413e7079",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T05:34:33.777687+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "541b12f4-201c-408a-a827-347e73e7dc96",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T05:35:40.774257+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a4f624bd-8c26-4123-a68d-abfc0b556b40",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T05:36:35.878604+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "867f9f5a-349a-4f8a-a174-69e6847c8ae8",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T05:37:27.706844+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2f9df790-fbdf-4bf3-b3af-35f5ec874743",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T05:38:15.098115+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "9eb232df-5ddc-481b-87f2-06833424d751",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-21T06:32:32.415225+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "3845e201-9cfc-4e18-b684-924d84d46d0c",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-22T02:52:19.229029+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a735fab2-0608-4e65-a558-de345ab25b89",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-22T02:55:18.947089+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "88fb952c-17ac-4d9e-aa03-b024b28d638a",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-22T02:55:45.965606+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e640d2a0-8adc-45ee-b987-edca8fa0cad1",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-22T02:56:11.417774+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e9bbad12-8021-4e6f-b1ee-e128b14155dd",
+      "user_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "timestamp": "2026-04-22T07:54:39.392888+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b2f7bb2c-2ea9-44b5-880f-e9d76c740628",
+      "user_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "timestamp": "2026-04-22T07:55:10.827099+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "3f403012-998c-4216-8196-6c690559197c",
+      "user_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "timestamp": "2026-04-22T07:55:44.029969+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "da141f45-a263-4b22-951a-708095a6c674",
+      "user_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "timestamp": "2026-04-22T07:59:58.864566+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "630dc669-fe48-498c-8c3b-90aa5523cf41",
+      "user_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "timestamp": "2026-04-22T08:00:21.208313+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8be69fa3-9710-43a8-af96-1d4b08c25ddd",
+      "user_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "timestamp": "2026-04-22T08:00:47.036042+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b186ef53-4c7b-41a1-8d65-d667856dbc55",
+      "user_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "timestamp": "2026-04-22T08:02:01.391071+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b3508f1e-b188-4006-80aa-f761320eee8a",
+      "user_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "timestamp": "2026-04-22T08:03:18.619478+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2d81a845-77ca-4e10-962a-6aa298723ea0",
+      "user_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "timestamp": "2026-04-22T08:04:32.920634+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e3755e1d-eda0-48f4-880f-c629fded1bd3",
+      "user_id": "a691fba7-d3cf-4a05-9cb9-3b047e957cf5",
+      "timestamp": "2026-04-22T08:05:52.285214+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "69f6b46a-2681-43cb-a552-f6952cc15a38",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-22T08:31:45.092278+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "55096981-f217-461c-88f4-01d14178956c",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-22T08:32:08.957365+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a2bf521d-cc62-47dd-91a9-6f46875f9f4d",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-22T08:32:34.027058+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b806a814-c69a-4f62-86fd-a9551522f11f",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-22T08:33:46.642206+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "9b81f04c-d525-4e5c-a2f1-e7a4c0e2d0ea",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-22T08:34:30.054411+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "4b3dcdc0-7559-42e1-8b63-961737acc26a",
+      "user_id": "d8a142f9-352a-4134-a312-d6df4ca6931b",
+      "timestamp": "2026-04-22T08:58:34.342066+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6db5b081-68ef-478d-9dfc-5ac02af38602",
+      "user_id": "d8a142f9-352a-4134-a312-d6df4ca6931b",
+      "timestamp": "2026-04-22T08:59:02.512870+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f15fbde9-271a-4e1c-802c-8e0587986ff5",
+      "user_id": "d8a142f9-352a-4134-a312-d6df4ca6931b",
+      "timestamp": "2026-04-22T08:59:32.518182+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "60b39106-334d-43d8-8997-6a923847df11",
+      "user_id": "d8a142f9-352a-4134-a312-d6df4ca6931b",
+      "timestamp": "2026-04-22T09:00:49.477015+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "56c52fc9-605a-497a-8b24-d913aa745a70",
+      "user_id": "d8a142f9-352a-4134-a312-d6df4ca6931b",
+      "timestamp": "2026-04-22T09:02:37.020552+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "b834bec1-5c23-4074-a71a-aa10674f16f3",
+      "user_id": "d8a142f9-352a-4134-a312-d6df4ca6931b",
+      "timestamp": "2026-04-22T09:04:23.067477+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "1e1ee948-9e84-4c5c-aadc-d0421de8688e",
+      "user_id": "d8a142f9-352a-4134-a312-d6df4ca6931b",
+      "timestamp": "2026-04-22T09:05:28.738837+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "9ec02dbb-bd46-463e-8d96-b138ca05fec6",
+      "user_id": "d8a142f9-352a-4134-a312-d6df4ca6931b",
+      "timestamp": "2026-04-22T09:07:25.159021+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "21c580fb-f82e-485c-b9e4-168b35366892",
+      "user_id": "2ad06c5f-30e9-4943-9259-c5d62c0f659e",
+      "timestamp": "2026-04-22T09:09:05.911224+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a0ec25a2-81dd-49c9-8b7e-791e64478557",
+      "user_id": "2ad06c5f-30e9-4943-9259-c5d62c0f659e",
+      "timestamp": "2026-04-22T09:09:25.222379+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "39316b2d-4439-49af-aa25-f09156278bbf",
+      "user_id": "2ad06c5f-30e9-4943-9259-c5d62c0f659e",
+      "timestamp": "2026-04-22T09:09:48.355175+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ebfe5c20-f732-478d-9771-46c422b0ca35",
+      "user_id": "2ad06c5f-30e9-4943-9259-c5d62c0f659e",
+      "timestamp": "2026-04-22T09:10:45.443464+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a1eb4b43-8f03-453c-b9c3-c5e5cfeda738",
+      "user_id": "2ad06c5f-30e9-4943-9259-c5d62c0f659e",
+      "timestamp": "2026-04-22T09:11:37.058811+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "5f5af121-8693-4fc2-9d5f-130bc64058d0",
+      "user_id": "2ad06c5f-30e9-4943-9259-c5d62c0f659e",
+      "timestamp": "2026-04-22T09:12:31.162190+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "d32b0997-ffcc-47fd-9a5f-65e121f95b22",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:08:25.307510+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6bd35707-a0f5-48d8-84b9-ea6565a7098e",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:08:46.289834+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "931cbb1d-e3d5-4f77-b02c-a54af3fd7a92",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:09:09.109581+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "123c0f10-3fb3-4920-9599-c1d978950178",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:10:07.202237+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "562b48ad-b5e4-4d5f-af43-384ea9b6c483",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:10:56.198548+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8298d28e-8f24-4c5d-b3f2-a58e2e2a10c8",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:11:44.268335+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0c896765-ba6f-47a5-bff3-87d4d52abca7",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:19:39.553076+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "4ea2b7a6-7df0-41f7-8fcd-e073b836f6da",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:20:16.803875+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c9c8940e-de4d-4586-bca0-460bd00814c7",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:20:49.472695+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "861dbc49-28cf-4d57-acb6-9a6692f1c504",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:22:42.791954+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0ce70964-cd0b-44c0-a9eb-8398e587b6b2",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:23:58.230120+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "dcc73c89-078d-4a0f-a60a-2f886510675f",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:27:04.684887+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7a5f0fa7-95e1-4108-8120-9dc8672fbf1d",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:27:24.762966+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8f78bd17-2a4a-45a6-b19d-41c545050f77",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:27:47.172142+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "258fc767-322d-4e15-bfa1-30f3b7f69ca8",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:44:13.831889+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "1c56a98a-3051-4e23-921e-f6d5d5eb1272",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:44:41.292378+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ee5c75c6-dc97-4d75-ae0e-dfc4c5767ff8",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:45:05.702041+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "0c658faa-33fa-4189-b538-111503ea8a38",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T07:46:14.350216+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8cc5de82-9942-43f5-ba9b-b998a821a056",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:35:04.441371+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ff555a44-d64f-414c-b951-bcb473ceaf86",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:35:22.070878+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "55d5c862-6542-4cd2-8b0b-eb97be06c806",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:35:44.025880+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2a9a0fd3-2b06-4bb9-8ecd-324b2675ed01",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:36:59.329214+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "2ac8dfc8-681b-4967-892a-1f6bac698164",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:37:54.055928+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "64d55109-5b14-46cb-abad-7812c5d6e05f",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:39:28.740949+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "f0303f16-7981-40f2-9879-8b09e5c49418",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:40:53.002464+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "55115bc5-e835-47e7-b2b3-18f1df784e1b",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:46:51.013633+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "64bed845-1ee8-48c2-8484-ed273aa00769",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:47:09.030871+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ad9f5435-1ce2-4c1b-95ef-5047c6b142ff",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:47:30.281538+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "60a592b7-c014-4962-8af4-758804803dd0",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T08:49:19.352281+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "e34a7b6c-b6ec-44d2-8333-ccc2a02448dd",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T09:18:28.156640+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "4f9e7d4b-f152-4d5a-8351-bb7fc17ac0a9",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T09:19:23.833215+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a9cd6e4d-5d8e-4737-b2c3-c0f8d71f0814",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T09:19:46.622086+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8e97c27f-5399-4034-9c77-57f01994e82e",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T09:20:57.234394+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "99ee0563-470d-48be-a6af-267629e094a4",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T09:21:41.731418+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a29babb2-b86d-4aef-816c-a8321bbbecdd",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-28T09:22:32.238185+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8560863a-7026-48b7-adc5-82043632f08e",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-29T01:09:39.668846+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6c68ee5f-f836-4260-8cd1-d526e464f8e5",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-29T01:09:58.407060+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "93bff248-7704-4346-9b38-64bd9d67d863",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-29T01:10:28.788731+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "71de6f3c-6253-47e1-9ea2-1207d808194e",
+      "user_id": "fd2fce10-139e-45ee-9b41-ab13e5d0dc18",
+      "timestamp": "2026-04-29T01:16:36.804289+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "35bba99f-f872-4d20-ac55-2e8cdecabfc8",
+      "user_id": "fd2fce10-139e-45ee-9b41-ab13e5d0dc18",
+      "timestamp": "2026-04-29T01:16:57.975596+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c805fe8d-f5c2-40ac-babd-3a58c36d8bab",
+      "user_id": "fd2fce10-139e-45ee-9b41-ab13e5d0dc18",
+      "timestamp": "2026-04-29T01:17:22.920572+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ae46c6d3-9ac5-4776-bce3-ab4dec167795",
+      "user_id": "fd2fce10-139e-45ee-9b41-ab13e5d0dc18",
+      "timestamp": "2026-04-29T01:19:29.823391+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "52877388-e6cd-4717-9ac4-02ec8eb4babc",
+      "user_id": "fd2fce10-139e-45ee-9b41-ab13e5d0dc18",
+      "timestamp": "2026-04-29T01:20:35.381187+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "5c362c4c-b2b2-475b-bd51-902838a90d0c",
+      "user_id": "fd2fce10-139e-45ee-9b41-ab13e5d0dc18",
+      "timestamp": "2026-04-29T01:22:04.215822+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "6314e9e7-9d9d-4b8e-b16b-bc6a42ed5b69",
+      "user_id": "fd2fce10-139e-45ee-9b41-ab13e5d0dc18",
+      "timestamp": "2026-04-29T01:23:25.799330+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "35a9f44e-3c5c-4acb-af9f-a8d6edb7d4aa",
+      "user_id": "fd2fce10-139e-45ee-9b41-ab13e5d0dc18",
+      "timestamp": "2026-04-29T01:24:15.496474+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "96b3ad54-e000-4893-9e95-4504d902ab76",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-29T01:36:15.932998+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "c65e52c6-9367-48ad-9f20-954f0e6b3605",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-29T01:36:43.966081+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "ebbc9aa2-a75f-419f-99bb-df009925fbce",
+      "user_id": "c44da5a3-fa57-4cd4-952f-773a89f1fa8c",
+      "timestamp": "2026-04-29T01:37:07.981124+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "8136727f-a2cd-4f2c-9ac5-1359b392d132",
+      "user_id": "f811ab28-e945-464f-8e50-5c5e590194b8",
+      "timestamp": "2026-04-29T09:36:03.592321+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "567e2e68-ce92-4264-8c0f-b4a61dd299e3",
+      "user_id": "f811ab28-e945-464f-8e50-5c5e590194b8",
+      "timestamp": "2026-04-29T09:36:33.580904+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "7826b237-3835-4fdc-9813-b58994761461",
+      "user_id": "f811ab28-e945-464f-8e50-5c5e590194b8",
+      "timestamp": "2026-04-29T09:37:05.235908+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "a0d0af15-91f3-4c36-a1f3-f0db06fb037d",
+      "user_id": "f811ab28-e945-464f-8e50-5c5e590194b8",
+      "timestamp": "2026-04-29T09:39:16.964781+00:00",
+      "pitch": 0.0
+    },
+    {
+      "_id": "1d5ae490-3c28-4c55-8601-e9d54cce3dce",
+      "user_id": "f811ab28-e945-464f-8e50-5c5e590194b8",
+      "timestamp": "2026-04-29T09:41:00.771310+00:00",
+      "pitch": 0.0
+    }
+  ]
+}
